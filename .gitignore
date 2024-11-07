@@ -1,0 +1,63 @@
+# =============== Unity generated files ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Exclude all .asset files in root folder
+/*.asset
+
+# =============== Visual Studio / MonoDevelop generated files ===============
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =============== OS generated files ===============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =============== Built application files ===============
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.jar
+*.pdb
+
+# =============== Unity auto-generated meta files ===============
+*.pidb.meta
+*.pdb.meta
+
+# =============== Crash log files ===============
+crash.log
+error.log
+
+# =============== JetBrains Rider project files ===============
+.idea/
+*.sln.iml
+
+# =============== Additional folders ===============
+/.vs/
+.vscode/
+UserSettings/
+ProjectSettings/EditorBuildSettings.asset
